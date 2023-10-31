@@ -1,0 +1,177 @@
+<html> 
+<head> 
+<style>
+img{
+
+padding-top:30px;
+
+
+}
+
+
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+</style>
+</head>
+
+
+<body> 
+<div class="box">
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+
+<img src="c:\wt project\wt project\schedule.png.PNG"></image>
+
+</body>
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+	<a href="c:\wt project\project.html"><li style="text-decoration:none; color:white; font-size:20px;">Home</li></a>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+
+</html>

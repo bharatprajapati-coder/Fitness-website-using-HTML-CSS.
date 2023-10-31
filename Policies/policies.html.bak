@@ -1,0 +1,260 @@
+<html> <head>
+
+<style>
+body{
+background-color:black;
+color:#fff;
+}
+h1{
+font-size:40px;
+text-align:center;
+}
+
+h2{
+font-size:30px;
+margin:20px;
+}
+p{
+font-size:24px;
+margin:40px;
+
+}
+
+
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+ </style>
+</head>
+<body>
+<div class="box">
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+
+
+ <h1> 
+Booking Policies
+</h1><p>At Fitness Hub, we want everyone to have the opportunity to attend our group-fitness classes. One of our top priorities as your fitness studio is to
+ keep you committed to your goals and staying on track with your health and fitness. To make sure we can accommodate everyone who wants to take classes,
+ we have a few policies regarding reservations, cancellations, and the wait list.</p>
+
+<h2>Reservations</h2><p>
+
+Reservations can be made two weeks in advance and a valid pricing plan must be used in order to do so.</p>
+
+
+<h2>Cancellations</h2>
+<p>
+You made a reservation for a class but something comes up and you can’t make it. What should you do?</p>
+
+
+
+<p>
+We get it, things come up, you don’t feel well, your kids are sick, a meeting is running over; life happens. </p>
+
+<p>
+There is a 3 hour late cancellation policy for any daytime or evening class, with the 
+exception of classes that start before 8 AM, in which case the late cancellation window is 8 hours.</p>
+
+
+​
+
+<p>
+Please remove yourself from your booking if you are more than 8 hours from the start time, or message us 
+
+to remove you from a class if you need help. If you are within 8 hours of the start, you must send us a
+message to the studio (messaging on Instagram or Facebook does not count)!
+ If you have a sudden emergency within the cancellation window, please contact us directly.</p>
+
+
+
+<p>
+If you fail to cancel a reservation or you don't show up to a reserved class, you will be charged a Rs300.00 "no show/late cancellation" 
+fee if you are on an unlimited pricing plan or you will forfeit a class if you are on a class pack / studio drop-in.  </p>
+
+
+<p>
+Fees must be promptly paid to avoid interruption to your membership. Accounts with unpaid fees are subject to suspension 
+or termination, without refund, should they remain in arrears for more than 10 calendar days.</p>
+
+​
+
+<h2>Wait Lists</h2>
+<p>
+We use wait lists to ensure everyone has the opportunity to make it into a class.  If the class you wish to sign up 
+for is full, we highly recommend using the wait list, which you can join from our mobile app. </p>
+
+
+ 
+
+<p>
+As spots become available, we will either push you into the class or you will receive a notification to join a class. Because we actively 
+manage the waitlists, we assume that if you are on a waitlist you want to take a class.</p>
+
+
+ 
+
+<p>
+If you are added into a class from the waitlist and do not attend class, this will be treated as a no-show, regardless if you accepted a notification or not.</p>
+
+ <p>If you are on an early morning waitlist, you should wake up as if you have made it into the class as waitlists clear quickly, even in the middle of the night.</p>
+
+
+
+
+
+<p>
+We encourage you to actively manage your bookings and waitlists. If you no longer want to be in a given class, please update your reservation accordingly. </p>
+
+
+</body>
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+	<a href="c:\wt project\project.html"><li style="text-decoration:none; color:white; font-size:20px;">Home</li></a>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+</html>

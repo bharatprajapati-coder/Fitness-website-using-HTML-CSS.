@@ -1,0 +1,307 @@
+<html>
+<head> <style>
+
+body{
+background-color:rgb(220,229,229);
+}
+
+.h1{
+text-align:center;
+margin-top:100px;
+margin-bottom:100px;
+color:rgb(75,75,75);
+}
+
+.container{
+display:flex;
+
+}
+.box{
+height:800px;
+width:500px;
+color:yellow;
+background-color:rgb(0,0,0);
+color:#fff;
+font-size:30px;
+margin:30px;
+}
+
+.box p{
+text-align:center;
+justify-content:center;
+
+}
+.box li{
+list-style-type:none;
+text-align:center;
+padding-top:20px;
+}
+
+.box1{
+height:800px;
+width:500px;
+margin-left:40px;
+color:yellow;
+background-color:rgb(0,0,0);
+color:#fff;
+font-size:30px;
+margin:30px;
+}
+.box1 p{
+text-align:center;
+justify-content:center;
+
+}
+
+.box1 li{
+padding-top:20px;
+list-style-type:none;
+text-align:center;
+}
+.box2{
+height:800px;
+width:500px;
+margin-left:40px;
+color:yellow;
+background-color:rgb(0,0,0);
+color:#fff;
+font-size:30px;
+margin:30px;
+}
+.box2 p{
+text-align:center;
+justify-content:center;
+
+}
+.box2 li{
+list-style-type:none;
+text-align:center;
+padding-top:20px;
+}
+
+
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+</style>
+</head>
+<body>
+<div class="ox"> 
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+
+<h1 class="h1">plans and pricing </h1>
+<div class="container">
+	<div class="box">
+<h2 style="text-align:center;"> ordianry </h2>
+<br>
+ <p>RS.400 only/-<p>
+
+ <p>Every month.</p>
+ <p> perfect for those who are <br>taking few classes per month<br> at FItness hub lab.</p>
+
+<hr>
+<li>Four classes per month </li>
+<li> Free childcare		</li>
+<li>limited lab access </li>
+<li>No contract </li>
+
+
+</div>
+
+
+<div class="box1">
+<h2 style="text-align:center;"> most popular </h2>
+<br>
+ <p>RS.750 only/-</p>
+ 
+ <p>Every month.</p>
+ <p> perfect for those who want unlimited access per month at FItness hub </p>
+
+<hr>
+<li>Unlimited classes </li>
+<li> Unlimited Fit3D scans	</li>
+<li>Unlimited lab access </li>
+<li>Free childcare</li>
+<li>No contract </li>
+
+
+</div>
+
+<div class="box2">
+<h2 style="text-align:center;"> Best</h2>
+<br>
+<p> RS.1050 only/-</p>
+ <p>
+ Every month.</p>
+ <p> perfect for those who want unlimited access per weak at FItness hub </p>
+
+<hr>
+<li>Eight classes per month </li>
+<li> Free childcare	</li>
+<li>limited Fit3D scans</li>
+
+<li>No contract </li>
+
+
+</div>
+
+</div>
+
+
+
+ </body>
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+<li style="text-decoration:none; color:white; font-size:20px;">Home</li>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+
+
+
+
+
+</html>

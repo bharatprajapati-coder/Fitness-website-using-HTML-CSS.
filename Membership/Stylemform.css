@@ -1,0 +1,108 @@
+h2{
+    text-align:center;
+    }
+    
+    .logo{
+        height:40px;
+        width:100px;
+        cursor:pointer;
+        
+        }
+        
+        nav{
+        background-color:rgb(31,31,31);
+        display:flex;
+        height: 40px;
+        }
+        
+        nav .ul{
+        background-color:rgb(31,31,31);
+        color:white;
+        text-align:center;
+        width:100%;
+        align-items:center;
+        margin-left:400px;
+        display:flex;
+        
+        }
+        
+        nav .ul li{
+        background-color:rgb(31,31,31);
+        display:inline-block;
+        margin:20px 20px;
+        color:white;
+        }
+        
+        
+        nav.sticky{
+        position:fixed;
+        top:0;
+        left:0;
+        padding:1px 5%;
+        display:flex;
+        align-items:center;
+        }
+        
+    
+    #a345{
+    color:rgb(241,245,5);
+    font-size:34px;
+    padding-top:289px;
+    padding-left:30px;
+    
+    width:450px;
+    display:flex;
+    
+    }
+    
+    .footer{
+    margin-top:140px;
+    background-color:black;
+    padding:20px;
+    display:flex;
+    }
+    .flogo{
+    height:200px;
+    width:200px;
+    display:flex;
+    }
+    
+     .ful li{
+    list-items:none; 
+    display:flex;
+    padding:4px;
+    margin-left:20px;
+    font-size:15px;
+    cursor:pointer;
+    }
+    .o{
+    display:flex;
+    
+    }
+    
+    .copy{
+    margin-top:20px;
+    margin-left:79px;
+    }
+    
+    #follow{
+    height:50px;
+    width:60px;
+    cursor:pointer;
+    padding:10px;	
+    }
+    
+    .sad{
+    font-size:24px;
+    margin-left:21px;
+    
+    }
+    .ul li:hover{
+    
+    color:yellow;
+    background-color:red;
+    border-radius:40px;
+    }
+    p{
+    text-align:justify;
+    }

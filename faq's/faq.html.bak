@@ -1,0 +1,267 @@
+<html> 
+<head> <style> 
+ body{
+ color:white;
+ background-color:black;
+ }
+ .logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+
+ .footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+</style></head>
+<body>
+<div class="box"> 
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+
+ 
+<h2>1. “Do I Need to Work Out Every Day?”</h2>
+<br>
+No, you do not need to work out every day. In fact, in most cases, I would recommend at least 1-2 days of total rest a week. However, just because you have a rest or recovery 
+day scheduled 
+into your calendar, doesn’t necessarily mean you aren’t active at all on these days. Light, regular movement such as walking your dog around the block, or taking 
+time for stretching or foam rolling are great recovery techniques to help increase blood flow and reduce tension in tight muscles
+. Participating in regular rest days and practicing a well-balanced recovery routine can help you reduce your risk for injury and promote the longevity of your fitness routine
+<br>
+<h2>2. “How Long Should I Work Out For?”</h2><br>
+In general, your workouts do not need to be long to be effective. Many people who are new to fitness imagine slogging
+ around for hours on the treadmill. This doesn’t need to be the case.
+
+The length of your workout will largely depend on your fitness level, as well as the type of training and intensity you’re
+ working out at. The CDC recommends at least 30 minutes of moderate-intensity aerobic activity 5 days a week, as well as 2 full
+ body strength training sessions(1). Making sure you’re hitting these minimums for exercise is a great way to make sure you’re on track.
+ However, if you’re under the recommendation, it’s okay, we all must start somewhere!
+
+When it comes to the type of workout you’re completing - HIIT, circuit training sessions, or sprints will typically be quicker than moderate-intensity 
+cardio sessions, as you’re working out at a higher intensity. For strength training sessions, you may want to schedule more
+ time for warming up and resting between sets.
+ <br>
+ <h2>3. “How Can I Increase Lean Muscle Mass?”</h2>
+Adding heavy strength training into your routine is just one way to increase lean muscle mass. But there are many ways to 
+increase strong lean muscle tone in your body. Any form of resistance that your muscles must fight against that is greater than
+ what they normally experience, can help stimulate the muscle growth process. Completing exercises with your body weight or resistance 
+ bands are also effective ways of training to build strength. Start with what you feel most comfortable with and continue building from there.
+ As your exercises or the weight, you’re using start to feel too easy, 
+increase your weight or choose more challenging exercises to continue challenging your muscles and see results.
+<br>
+<h2>4. “How Much Weight Should I Use When Strength Training?”</h2>
+When strength training, it’s important to always remember that the workout you’re performing is ‘your workout’. Don’t focus 
+on the number of weight others are using to complete workouts. Instead, focus on your rate of perceived exertion on a scale of 
+1 to 10. When strength training, you should feel a perceived exertion of 7 to 9, each rep should feel challenging with the last 
+reps and sets feeling significantly harder. If you complete a workout and aren’t feeling challenged, you know it’s 
+time to move up in weight the next time you complete that workout.
+
+<br>
+<h2>
+5. “What Training Should I Be Doing to Lose Weight?”</h2>
+When it comes to weight loss, I like to focus on a full-scale approach. Regular cardio training is great for increasing 
+your daily calorie burn. While strength training will help you build lean muscle, which will increase your metabolism and help you burn more calories at rest!
+
+I’d also recommend adding in a few HIIT sessions per week, rather it is your favorite type of cardio, body 
+weight, or light dumbbell exercises. HIIT is designed to get your body working at high intensities, burning a 
+ton of calories in a short period of time. Create a schedule with a blend of regular cardio, a few full body strength
+ training sessions, and a few HIIT training sessions each week.
+
+Finally, don’t forget to eat a healthy, well-balanced diet emphasizing whole foods. With weight 
+loss it’s important to maximize the nutrients in the calories you’re consuming to fuel your workouts!
+<br><h2>
+6. “How Often Should I Rest?”</h2>
+Your rest will depend on your workout schedule. Like I said previously, I recommend 1 or 2 full days of rest in your schedule.
+ This isn’t only great for giving your body time to recover from your workouts, it also can be a great time for self-care to promote mental health.
+<br><h2>
+7. “When Should I Stretch & How Often?”</h2>
+There are a few types of stretching you should plan on adding to your routine. The first is dynamic stretching. Start your
+ workout with dynamic stretching or exercises designed to increase your range of motion, promote mobility, and wake up your 
+ muscles like walking lunges, or leg swings! Choose exercises focused on the muscles you plan to use during your workout.
+
+Use static stretching (such as standing forward fold, or kneeling hamstring stretch) as your post-workout recovery. Just like
+ your dynamic stretches, choose exercises focusing on the muscles you just worked during your workout to give them some TLC.
+<br>
+<h2>
+8. “What Can I Do About Muscle Soreness?”</h2>
+When it comes to muscle soreness, a few things will factor in to help you recover your best. First, dialing 
+in your nutrition is key, eating foods to fuel your body and workouts is important as this will give your muscles 
+the nutrients they need for recovery. Rest and plenty of sleep will also play into your recovery as well, as when 
+you’re at a full rest you’re giving your muscles that time they need to repair.
+ For more helpful tips check out our article What to Do About Muscle Soreness After a Workout.
+<br>
+<h2>9. “How Long Does It Take to See Results?”</h2>
+It can take anywhere from 6-8 weeks or more to see results from your program. That can be discouraging as so many of us are living in an instant world - we
+ expect results and changes instantaneously. Don’t get discouraged. Know that your hard work is paying off, even if you don’t see the results you’re looking 
+ for on the scale right away.
+
+A few other ways to track your progress as you go can be the fit of your clothing, being able to complete more challenging or longer workouts, or
+ taking progress photos and comparing as you continue your journey. It’s all the little wins along the way that help keep you going, so keep cueing into your 
+ body and all of the smaller successes and changes you
+ see along the way and celebrate them! 
+ 
+<br>
+<h2>10. “What’s the Best Diet for My Fitness Goals?”</h2>
+Your diet plays a huge role in the overall success of your new routine. Regardless of your goals,
+
+ it’s important to give your body the fuel and energy it needs to crush and recover from your workouts.
+ There are tons of diets out there, and really when it comes down to it, the choice is personal. If I can 
+ give a general piece of advice, it would be to simply focus on including more whole foods in your diet. If 
+ you want to show up for your workout and perform your best, the nutrients you're filling your body with matte
+ r. The quality and content of what you eat make a difference, so try maximizing fresh foods where you can.
+
+For all my fitness newbies out there, I hope this article is a good starting point that helps you frame the building
+ blocks of your new routine! While beginning a new fitness journey can be daunting, don’t stress about the details too much. 
+ As you get going, you’ll start getting the hang of it and learning from those around you. Don’t be afraid to ask questions. 
+ Let us know in the comments your fitness questions! We’d be happy to help.
+
+ 
+
+
+</body>
+
+ <footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+	<a href="c:\wt project\project.html"><li style="text-decoration:none; color:white; font-size:20px;">Home</li></a>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+</html>

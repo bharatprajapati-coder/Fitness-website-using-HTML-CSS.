@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+		body{
+		
+		background-color:black;
+		}
+            .c1{
+                font-size: xx-large;
+                margin-left: 470px;
+                color: blueviolet;
+                
+            }
+			
+            hr {
+        position: relative;
+        top: 10px;
+        border: dotted;
+        height: 5px;
+        background: black;
+        margin-bottom: 50px;
+    }
+    body{
+        background-image:url("registration.jpg");
+        height:100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+  .c2{
+      margin-left: 550px;
+      color:lightgreen;
+  }
+        </style>
+    </head>
+    <body>
+        
+        <div><b class="c1">Fitness Hub's Registration Form.	</b>
+            <hr><form class="c2"><table>
+                <label>Full Name:</label><br>
+                <input type="text" placeholder="First Name" >
+                <input type="text" placeholder="Last name"><br><br>
+                <label>Weight</label><br>
+                <input type="number" placeholder="weight">
+                <label>Height</label>
+                <input type="number" placeholder="Height in feet"><br><br>
+                <label>Age</label><br>
+              <input type="number" placeholder="Age" minlength="1";>
+                <br>
+                <label>Goal Weight</label><br>
+                <input type="number" placeholder="Goal"><br>
+                <br>
+                <br>	
+                <label>Address</label><br>
+                <input type="text" placeholder="street address"><br>
+                <input type="text" placeholder="Street address line 2"><br><br>
+                <label>City</label><br>
+                <input type="text" placeholder="City">
+                <label>State/Province</label>
+                <input type="text" placeholder="State"><br><br>
+                <label>Postal/Zip Code</label><br>
+                <input type="number" placeholder="Zip code">
+                <label>Country</label>
+                <input type="text" placeholder="country"><br><br>
+                <label>Phone Number</label><br>
+                <input type="phone" placeholder="+91"><br><br>
+                <label>E-mail</label><br>
+                <input type="email" placeholder="example@gmail.com"><br><br>
+                <input type="submit" placeholder="submit">
+            </table>
+   <p> Already registered.
+   <input type="submit" value="Log In"> </input>
+            </form>
+        </div>
+    </body>
+</html>

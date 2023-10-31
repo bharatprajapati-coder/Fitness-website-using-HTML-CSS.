@@ -1,0 +1,192 @@
+<html> 
+<head> <style> 
+
+h2{
+text-align:center;
+}
+
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+.ul{
+margin-left:450px;
+}
+.ul li {
+list-style:none;
+display:inline-block;
+
+
+}
+.ul li a{
+color:white;
+padding:20px;
+
+}
+
+#navbar{
+display:flex;
+background-color:black;
+color:white;
+
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:450px;
+display:flex;
+
+}
+
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+p{
+
+text-align:justify;
+}
+
+@media only screen and (min-width:497px) {
+  .ul{
+    
+	margin:50px;
+  }
+}
+
+@media only screen and (max-width:768px) {
+  #navbar{
+    display:none;
+
+  }
+}
+</style>
+</head>
+<body>
+<div class="box">
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu">
+	<li> HOME</li>
+	<li> <a href="c:\wt project\wt project\about us.html">ABOUT US</a></li>
+	<li><a href="c:\wt project\wt project\schedule.html">SCEHDULE</a></li>
+	<li><a href="c:\wt project\wt project\trainers.html">TRAINERS</a></li>
+	<li><a href="c:\wt project\pricing.html">PRICING</a></li>
+	<li><a href="login.html.html"><input type="submit" value="Log In" style="color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;" ></a>
+</li>
+</ul>
+</nav>
+</div>
+
+<div class="xya">
+<h2>
+Membership Terms & Conditions</h2>
+
+<p>
+At Sweat, all our memberships are sold in a contract-free, month-to-month auto-recurring subscription format. By purchasing a membership 
+with Sweat, we agree to provide you with  access to the services listed for your membership in exchange for payment.
+</<p><p>
+Should your payment be declined, we will automatically send you an invoice for payment. If your payment is delinquent
+ by more than (7) seven days, you acknowledge that your access to Sweat FXBG will be suspended until you have paid your account 
+ balance in full and provide a card on file with Sweat through our payment processing system for your future invoices.</p>
+<p>
+If you would like to cancel your subscription for any reason, please message the studio through our website chat platform or in-app 
+(no social media messages or personal messages, please) or call our studio and we will gladly cancel your membership. If your cancellation request 
+is received after your membership has renewed for the month, the cancellation will take effect prior to the next month's charge.
+ You will have membership privileges through the remainder of your paid term. Membership charges are non-refundable
+</p></div>
+ </body>
+
+
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+<li style="text-decoration:none; color:white; font-size:20px;">Home</li>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+</html>

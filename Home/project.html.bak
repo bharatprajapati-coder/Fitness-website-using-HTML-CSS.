@@ -1,0 +1,365 @@
+<html> 
+<head> 
+<style>
+
+body{
+background-color:rgb(3,13,53);
+color:white;
+}
+.box{
+background:url("c:/wt project/background.webp");
+opacity:0.8;
+background-size:cover;
+background-position:center;
+position:relative;
+height:120vh;
+width:100%;
+
+ }
+
+ 
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+.abc{
+display:flex;
+margin-left:px;
+width:300px;
+
+}
+.bcd{
+margin-top:20px;
+margin-left:50px;
+
+
+padding:30px;
+}
+
+.cde{
+margin-top:30px;
+margin-left:70px;
+border:2px dotted white;
+border-radius:30px;
+padding:30px;
+
+}
+
+<!--
+.def
+{
+margin-top:20px;
+
+margin-left:80px;
+}
+.efg{
+margin-top:20px;
+margin-left:80px;
+}-->
+
+.slider-frame{
+overflow:hidden;
+height:200px;
+width:1000px;
+margin-left:180px;
+margin-top:40px;
+
+}
+
+
+.slider-frame p{
+color:yellow;
+font-size:24px;
+
+}
+
+@-webkit-keyframes slide_animation{
+0%{left:0px;}
+10%{left:0px;}
+20%{left:1200px;}
+30%{left:1200px;}
+40%{left:2400px;}
+50%{left:2400px;}
+60%{left:1200px;}
+70%{left:1200px;}
+80%{left:0px;}
+90%{left:0px;}
+100%{left:0px;} 
+}
+
+
+.slider-images{
+width:3600px;
+height:700px;
+margin:0 0 0 -2400px;
+position:relative;
+-webkit-animation-name:slide_animation;
+-webkit-animation-duration:33s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction0:alternate;
+-webkit-animation-play-state:running;
+border-top:2px solid white;
+
+}
+
+.img-container{
+width:1200px;
+height:100px;
+position:relative;
+float:left;
+}
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+</style>
+</head>
+
+<body>
+<div class="box"> 
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project1about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</nav><p id="a345"><b><big>"Some Pepole Want It <br>To Happpen,<br>Some Wish It Would Happen,<br>Other
+ Make <br>It Happens."</big></b></p>
+</div>
+<div>
+
+
+</p>
+</div>
+
+
+<div  class="abc">
+			<div class="cde" id="abcd"> 
+					<img src="c:\wt project1\img1.webp"> <h3>Fitness Hub Lab</h3> 
+							Our well appointed "Fitness Lab" has everything you need for your individual workout outside of the 
+								group class setting.
+				</div>
+				<div class="cde" id="xab">
+						<img src="c:\wt project\img2.webp">
+							<h3>
+									Studio Amenities
+							</h3>
+								<p>
+									Day use lockers, shower facilities and complimentary workout towel service are all included as part 
+									of your fitness hub's experience
+								</p>
+				</div>
+					<div class="cde"><img src="c:\wt project\img3.webp">
+							<h3> Fit3D Scans</h3>
+									With our unlimited plan, members have access to Fit3D scans—highly accurate body scans to 
+									track fitness progress and body composition changes
+					</div>
+				<div class="cde"><img src="c:\wt project\img4.webp">
+					<h3>
+					Childcare</h3>
+
+					Fitness hub provides free childcare on site. Drop your kids off and get your Sweat on. 
+				</div>
+			</div>
+
+
+<div class="slider-frame">
+<p>What Peoples Are Say About Us.<br></p>	
+ <div class="slider-images">
+			
+			<div class="img-container">
+				
+					<p>
+					<h2>Magan Whaley</h2>
+
+						"I’ve always hated going to the gym because I was so self conscious. 
+						<br>fitness hub changed that completely! It’s the most accepting and welcoming gym that I’ve ever been to. 
+						<br>Everyone is so kind and helpful! The workouts are incredible! The vibe is amazing, it doesn’t even feel like you’re working out 
+						<br>(you’ll definitely feel it the next day though😅)
+				</p>
+			</div>
+		<div class="img-container">
+			<p><h2>Sam verma</h2>
+
+					"This is by far my favorite gym I've been to. Gyms are always a bit intimidating, to me at least, 
+					<br>but from the moment you walk through the door they are welcoming and willing to explain how everything works.
+					<br> The instructors are super friendly and are able to modify anything you might have difficulty with or are unable to do for
+					other reasons.<br>
+					Will recommend to anyone."</p>
+		</div>
+		<div class="img-container">
+			<p><h2>Tanya Szakelyhidi</h2>
+
+					"FITNESS HUB is truly unique and unlike any gym I’ve ever been to.<br> There are so many workouts to
+					choose from that you can do something different every day!<br> The classes are small and the coaches and owners
+					are extremely focused on your personal fitness goals.<br> The staff makes working out so much fun that you want to be there every day! 
+					<br>They follow all COVID protocol and it is truly the cleanest gym I have ever been in.
+			</p>
+		</div>
+		
+	</div>
+
+</div>
+<script>
+ var navbar=document.getElementById("navbar");
+ var menu=document.getElementById("menu");
+ 
+ window.onscroll = function(){
+	if(window.pageYOffset >= menu.offsetTop){
+	navbar.classList.add("sticky");
+	}
+	else{
+		navbar.classList.remove("sticky");
+	}
+	
+ }
+ 
+
+</script>
+
+
+
+
+</body>
+
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+<li style="text-decoration:none; color:white; font-size:20px;">Home</li>
+<li>
+<a href="c:\wt project\wt project\about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="c:\wt project\wt project\schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="c:\wt project\wt project\trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href=" c:\wt project\pricing.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+
+</html>

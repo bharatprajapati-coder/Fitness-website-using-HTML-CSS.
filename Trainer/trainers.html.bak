@@ -1,0 +1,292 @@
+<html> 
+
+<head>
+<style>
+#a1{
+height:300px;
+width:500px;
+}
+
+#a1{
+align-items:center;
+justfiy-content:center;
+margin-left:420px;
+}
+
+
+#bcd{
+align-items:center;
+justfiy-content:center;
+margin-left:420px;
+}
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+.footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+
+
+
+
+
+ </style>
+ </head>
+<body>
+
+<div class="box">
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+<div class="abc"><div class="abcd"><img src="c:\wt project\wt project\trainer1.jpeg" id="a1"> 
+<p class="pql">
+We are talking about Virender Pahal and Mohan Pahal, nutrition experts of Fitness hub.
+ They are the best online personal fitness trainers in India and the world. They give fast results with their online fitness coaching.</p>
+<p class="pql">
+Getting coaching from elite online personal trainers like Virender Pahal and Mohan Pahal is helpful. They are known for
+giving the fastest results to transform your body and get the results you want.</p>
+<h4>How do Mohan Pahal and Virender Pahal work as fitness coaches?</h4><p class="pql">
+They start by getting to know the client's goals, their workout experience, how much they exercise, what equipment they have used, the diet, everything. 
+
+As you start working with Fitness hub online on YouTube or offline with them, they will check your calibre and work accordingly.
+
+Virender Pahal and Mohan Pahal give fully customized workout and nutrition plan, which provide you with the desired results. They will show you exactly how it is done.
+
+Which means no more tension, no guesswork. You will get the right exercise tips and nutrition plan with a diet chart. You have to stick to the basics given to you.
+Virender Pahal and Mohan Pahal check your progress and make adjustments if needed in the diet chart or exercise. You can reach out to them any time 24*7 365 days.
+
+Virender Pahal and Mohan Pahal's fitness training will give you get leaner and more muscular, more durable with the right body shape.
+ 
+To keep it simple, if anyone wants to become lean and ripped, pack muscles, or lose extra belly fat, Virender Pahal and Mohan Pahal are the best online fitness trainer in India.
+ They show precisely what to do and how to give the body the right shape. </p></div>
+ <div class="abc"><img src="c:\wt project\wt project\triner2.jpeg" id="bcd"><p> Cannot disclose clients; is said to have trained members of the Piramal family
+
+Mustafa Ahmed left his mortgage banking job to become a trainer at various gymnasium chains before going solo.
+
+Through his network, he learnt of rich businessmen looking for fitness instructors. He currently trains three to 
+four multi-millionaires, whom he cannot name as per provisions of his contract.</p></div>
+
+<img src="c:\wt project\wt project\trainer3.jpeg" id="a1"><p> 
+Jos Brown
+Trainer
+
+Jos is a certified personal trainer with a Bachelor’s degree in Ballet and Kinesiology from Indiana University. Jos has over 10 years of 
+experience with group and personal training in addition to a dance and fitness modeling career which included work as a company member with
+ the Banff Centre for the Arts Festival Ballet Company, the Brooklyn Nets, Nike, and Adidas. ⁣
+
+⁣
+
+Jasmine loves combining dance with fitness and believes that each workout should be fun, effective, and accessible to all fitness levels. ⁣
+
+⁣
+
+When he is not training, Jos works as a nurse in the pediatric intensive care unit and graduated from NYU with a Bachelors of Science in Nursing. </p>
+<img src="c:\wt project\wt project\trainer4.jpeg" id="a1"><p> Beth is a NASM Certified Personal Trainer and PROnatal Pre/Postnatal Specialist.
+
+
+In addition to 9 years of personal training experience, Beth has been a professional dancer for 18 years.  
+he was a Radio City Rockette and has been in 6 Broadway shows. he  was most recently on the choreography team for Netlix's "The Prom".
+
+ 
+
+Years of pushing his fitness in performance have given her an intuitive understanding of what it takes to get to a high level of athleticism and strength,
+ which he shares with his clients.
+
+ 
+
+It’s no surprise that so many of them refer to sessions with his affectionately as Death by Beth!
+
+ 
+
+Growing up in a small  town, Beth has held dance close to his heart for as long as he can remember. 
+he started dancing at three years old and grew up training and competing in tap, jazz, and ballet.
+
+​</p>
+<img src="c:\wt project\trainer5.jpeg" id="a1"><p> 
+Kayla Moniz
+Trainer
+
+"Train in a way that makes you feel unstoppable!"
+
+Kayla is a NASM CPT and professional dancer that has performed all around the world.  
+While battling extreme fatigue and burnout while on tour, she made a commitment to becoming the healthiest, strongest version of herself.  
+
+ 
+
+Kayla believes that health is beautifully individual, and that the joy of movement should fuel your fitness. 
+ She loves to challenge clients to push their bodies and minds to discover what they are capable of.  
+
+ 
+
+"You are limitless. Let's get to work!"</p>
+<img src="c:\wt project\trainer6.jpg.jpg" id="a1"><p> 
+Sharina D'Ornellas
+Trainer
+
+Sharina is a fitness professional originally from Tripura. She is currently based in  California working with
+ private clients and teaching virtual group fitness.
+
+ 
+
+Sharina began as a professional dancer her credits include Broadway in the TONY award winning musical "In the Heights" and "Ghost The Musical," 
+the Kennedy Center Honors for President Barack and First Lady Michelle Obama alongside James Taylor, Janelle Monet, Lin Manuel Miranda and Rosie Perez. Sharina can be seen on Film and Televison in SMASH (NBC - with Jennifer Hudson),The Love Guru, Scott Pilgrim vs. The World, Late Show with David 
+Letterman, Late Show with Jimmy Fallon, The Rick Mercer Report, Disney's Ice Princess, The Late Late Show with James Corden and numerous commercials. She has danced for artists including legendary soul artists Aretha Franklin & Chaka Khan. Sharona has also performed stunts for major campaigns including the “Adidas Superstar” athletic campaign with Rita Ora, Pharrell Williams and David Beckham, as well as for APPLE iWatch by award winning director Carlos Serrao.
+
+ 
+
+Sharina works in both group training and personal training capacities and focuses on progressing towards what each client wants to achieve, 
+while also developing overall physical balance. With a varied client base Sharona is able to work with a variety of client goals such 
+as preparing celebrities for films & world tours, pre natal health, post natal weight loss and everything in between.
+
+ 
+
+With a passion for helping others build not only physical strength but mental confidence, 
+Sharina feels fortunate to work with amazing clients everyday</p>
+</div>
+</body>
+<footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+	<a href="c:\wt project\project.html"><li style="text-decoration:none; color:white; font-size:20px;">Home</li></a>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+</html>

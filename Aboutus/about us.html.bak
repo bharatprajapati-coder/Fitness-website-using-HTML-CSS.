@@ -1,0 +1,384 @@
+<html> 
+<head>
+<style> 
+
+body{
+
+background-color:rgb(32,116,128);
+}
+#drdr{
+align-items:center;
+font-size:30px;
+margin-top:-80px;
+margin-left:250px;
+width:500px;
+}
+
+.logo{
+height:100px;
+width:150px;
+cursor:pointer;
+
+}
+
+nav{
+background-color:rgb(31,31,31);
+display:flex;
+
+}
+
+nav .ul{
+background-color:rgb(31,31,31);
+color:white;
+text-align:center;
+width:100%;
+justfiy-content:center;
+align-items:center;
+margin-left:400px;
+display:flex;
+
+}
+
+nav .ul li{
+background-color:rgb(31,31,31);
+display:inline-block;
+margin:20px 20px;
+color:white;
+}
+
+
+nav.sticky{
+position:fixed;
+top:0;
+left:0;
+padding:1px 5%;
+display:flex;
+align-items:center;
+justfiy-content:space between;
+}
+
+#a345{
+color:rgb(241,245,5);
+font-size:34px;
+padding-top:289px;
+padding-left:30px;
+
+width:500px;
+display:flex;
+
+}
+
+
+
+.aec{
+margin-top:80px;
+margin-left:350px;
+height:100px;
+width:20px;
+background-color:red;
+border-radius:30px;
+
+}
+.ec{
+margin-top:0px;
+margin-left:550px;
+height:100px;
+width:20px;
+background-color:red;
+border-radius:30px;
+
+}
+
+.c{
+margin-top:-120px;
+margin-left:450px;
+height:130px;
+width:20px;
+background-color:red;
+border-radius:30px;
+
+}
+
+.e{
+margin-top:-105px;
+margin-left:450px;
+height:130px;
+width:20px;
+background-color:red;
+border-radius:30px;
+
+}
+h1{
+text-align:center;
+margin-top:100px;
+}
+ div .o{
+ font-size:30px;
+ display:border-box;
+ border:2px solid black;
+ margin:20px;
+ padding:20px;
+ border-radius:30px;
+ background-color:#fff;
+ }
+ 
+ 
+ .abc{
+display:flex;
+margin-left:50px;
+width:350px;
+height:200px;
+color:white;
+}
+.abc p{
+font-size:24px;
+}
+.bcd{
+margin-top:24px;
+margin-left:60px;
+color:white;}
+.bcd p{
+font-size:24px;
+}
+
+.cde{
+width:150px;
+margin-top:24px;
+margin-left:60px;
+color:white;
+}
+
+.cde p{
+font-size:24px;
+}
+.def
+{width:150px;
+margin-top:40px;
+margin-left:80px;
+color:white;
+}
+
+.def p{
+font-size:24px;
+}
+.efg #abc{
+height:120px;
+width:180px;
+text-align:center;
+
+}
+.efg{
+margin-top:10px;
+margin-left:90px;
+text-align:center;
+height:40px;
+width:180px;
+color:white;
+}
+
+.efz
+{
+margin-top:12px;
+margin-left:100px;
+text-align:center;
+height:40px;
+color:white;
+}
+#asd{
+margin-top:500px;
+
+
+justify-content:center;
+}
+
+.asd {
+text-align:center;
+display-items:center;
+align-itmes:center;
+
+}
+
+asd p{
+padding:20px;
+font-size:24px;
+}
+div .z{
+ font-size:30px;
+ display:border-box;
+ border:2px dashed black;
+ margin:20px;
+border-radius:30px;
+background-color:#fff;
+ padding:20px;
+ }
+ 
+ 
+ .footer{
+margin-top:140px;
+background-color:black;
+padding:20px;
+display:flex;
+}
+.flogo{
+height:200px;
+width:200px;
+display:flex;
+}
+
+ .ful li{
+list-items:none; 
+display:flex;
+padding:4px;
+margin-left:20px;
+font-size:15px;
+cursor:pointer;
+}
+.o{
+display:flex;
+
+}
+
+.copy{
+margin-top:20px;
+margin-left:79px;
+}
+
+#follow{
+height:50px;
+width:60px;
+cursor:pointer;
+padding:10px;	
+}
+
+.sad{
+font-size:24px;
+margin-left:21px;
+
+}
+.ul li:hover{
+
+color:yellow;
+background-color:red;
+border-radius:40px;
+}
+</style> </head>
+
+<body>
+<div class="box"> 
+<nav id="navbar"> 
+<img src="c:\wt project\logo.png" class="logo">
+
+<ul class="ul"id="menu" >
+	<li> HOME</li>
+	<a href="c:\wt project\wt project\about us.html"><li> ABOUT US  </li></a>
+	<a href="c:\wt project\wt project\schedule.html"><li>SCEHDULE</li></a>
+	<a href="c:\wt project\wt project\trainers.html"><li>TRAINERS</li></a>
+	<a href="c:\wt project\pricing.html"><li>PRICING</li></a>
+	<a href="login.html.html"><input type="submit" value="Log In" style="margin-left:100px; color:yellow; background-color:orange; 
+	font-size:20px; padding:10px; border:1px solid black; border-radius:40px; width:100px; cursor:pointer;"></a>
+</ul>
+</div>
+
+
+<div class="aec">
+	<div class="ec"></div> <p id="drdr">About Us.</p><div class="e"></div></div>
+<div class="c"></div>
+<div><h1 class="h1">OUR STORY</h1><p class="o">
+Gym and Fitness was founded in 2002 as a family owned and operated business 
+specialising in supplying high-quality gym equipment at great prices.
+
+Instead of being just another gym equipment retailer, our founders 
+wanted to be the best in the industry and set their minds to doing so! Over
+ the last two decades Gym and Fitness has grown into one of Australia’s largest 
+ online fitness equipment retailers, helping thousands of customers 
+live longer, happier and healthier lives.</p></div>
+
+
+<div> <h1> >OUR VALUES<  </h1>
+<p class="z">For 20 years helping customers reach their fitness goals has been at the heart of what we do and why we do it!
+ We live and breathe our six core values and four brand promises  — 
+which speak of our commitment to our customers, staff, the industry and our business as a whole.</p></div>
+
+
+
+
+
+<div class="abc">
+<div class="bcd"><img src="c:\wt project\about1.webp"><h1>'Nimbagility'</h1>
+<p>Invented by our company directors, Nimbagility reflects the 
+ability to remain nimble and agile through lean, efficient actions.</p></div>
+ 
+<div class="cde"><img src="c:\wt project\about2.webp"><h1> 
+ Communication</h1>
+<p>We believe open, direct and supportive communication is the foundation of any successful organisation.</p>
+ </div>
+<div class="efz"><img src="c:\wt project\about3.webp"><h1>  
+Teamwork</h1>
+<p>We’re committed to common goals, with effective communication and accountability making our team achieve greater results. 
+ </p></div>
+
+<div class="def"><img src="c:\wt project\about4.webp"><h1> 
+'Nimbagility'</h1>
+<p>Invented by our company directors, Nimbagility reflects the ability to remain nimble and agile through lean, efficient actions 
+ </p>
+ </div>
+
+<div class="efg"><img src="c:\wt project\about5.webp" id="abc"><h1> 
+Be the change you seek</h1>
+<p>We believe we should all take ownership and have the courage to lead change, 
+creating a better experience for our people and the customers we serve.
+</p> </div>
+ </div>
+ <div><p id="asd"><h1 class="asd"> OUR CULTURE</h1><p>
+We know that building a positive culture is incredibly important. We believe 
+in encouraging, supporting, challenging, learning and growing to be the best! Our flexible 
+working solutions, gym rebates and educational opportunities create a positive work/life balance for all our employees.
+We believe in giving back and offering time, money and products to volunteer services and community 
+organisations. We’re committed to improving individuals' health, fitness, and 
+well-being by supporting global and local charities, local sports teams, and events. </p></div>
+ 
+
+ </body>
+ 
+ <footer> <div class="footer">
+<img src="c:\wt project\logo.png" class="flogo">
+<div>
+ <ul  class="ful">
+ <p class="sad"  style="color:yellow"> Some Useful Sites</p>
+<li><a href="faq.html" style="text-decoration:none; color:white; font-size:20px;">FAQ'S</li></a>
+<li><a href="policies.html" style="text-decoration:none; color:white; font-size:20px;">policies</li></a>
+<li><a href="membershipterms&condiyions.html" style="text-decoration:none; color:white; font-size:20px;">membership terms<br> & conditions.</li></a>
+ </div>
+ 
+ <div>
+ <ul  class="ful">
+<p class="sad"  style="color:yellow">Menu</p>
+<li style="text-decoration:none; color:white; font-size:20px;">Home</li>
+<li>
+<a href="about us.html" style="text-decoration:none; color:white; font-size:20px;">About</li></a>
+<li><a href="schedule.html" style="text-decoration:none; color:white; font-size:20px;">Schedule</li></a>
+<li>
+<a href="trainers.html" style="text-decoration:none; color:white; font-size:20px;"> Trainers</li></a>
+<li>
+<a href="services.html" style="text-decoration:none; color:white; font-size:20px;"> Pricing</li></a>
+
+ </div>
+ 
+ <div class="copy">
+<p style="font-size:23px; color:white;">&copy; 2022 Fitness Hub all right reserved.</p>
+
+<h3> Follow Us On.</h3>
+<img src="c:\wt project\wt project\facebook.png" id="follow"></image>
+<img src="c:\wt project\wt project\twitter.png" id="follow"></image>
+<img src="c:\wt project\wt project\youtube.jpeg" id="follow">
+<img src="c:\wt project\innsta.jpeg" id="follow">
+
+
+
+
+
+</div> 
+ </footer>
+ 
+
+</html>
